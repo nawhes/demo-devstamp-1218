@@ -1,0 +1,58 @@
+[
+  {
+    "animalId": 1,
+    "shelterId": 1,
+    "name": "백구",
+    "mainImgUrl": "http://www.petzzi.com/data/editor/1601/405ec2eaaa3b9787ab2dcbdf7e7edf5e_1453873939_0913.jpg",
+    "subImgUrl": "http://www.petzzi.com/data/editor/1601/405ec2eaaa3b9787ab2dcbdf7e7edf5e_1453873939_0913.jpg",
+    "intro": "남자 1살, 귀여움, 작음"
+  },
+  {
+    "animalId": 2,
+    "shelterId": 1,
+    "name": "흑구",
+    "mainImgUrl": "http://hangangah.com/wp-content/uploads/2016/09/con-20-1030x781.jpg",
+    "subImgUrl": "http://hangangah.com/wp-content/uploads/2016/09/con-20-1030x781.jpg",
+    "intro": "남자 2살, 안귀여움, 작음"
+  },
+  {
+    "animalId": 3,
+    "shelterId": 1,
+    "name": "황구",
+    "mainImgUrl": "https://pbs.twimg.com/media/DAwmagzUMAIxLU9.jpg",
+    "subImgUrl": "https://pbs.twimg.com/media/DAwmagzUMAIxLU9.jpg",
+    "intro": "여자 2살, 귀여움, 작음"
+  },
+  {
+    "animalId": 4,
+    "shelterId": 1,
+    "name": "흰둥이",
+    "mainImgUrl": "http://pds.joins.com/news/component/htmlphoto_mmdata/201611/22/htm_20161122172127787799.JPG",
+    "subImgUrl": "http://pds.joins.com/news/component/htmlphoto_mmdata/201611/22/htm_20161122172127787799.JPG",
+    "intro": "남자 2살, 폭력적임"
+  },
+  {
+    "animalId": 5,
+    "shelterId": 1,
+    "name": "깜둥이",
+    "mainImgUrl": "https://images.mypetlife.co.kr/wp-content/uploads/2017/11/10195827/%EA%B0%95%EC%95%84%EC%A7%806.jpeg",
+    "subImgUrl": "https://images.mypetlife.co.kr/wp-content/uploads/2017/11/10195827/%EA%B0%95%EC%95%84%EC%A7%806.jpeg",
+    "intro": "여자 2살, 화 잘냄, 작음"
+  },
+  {
+    "animalId": 6,
+    "shelterId": 1,
+    "name": "셰바스챤",
+    "mainImgUrl": "http://cfile212.uf.daum.net/image/22747F4D574A7C8E32D99D",
+    "subImgUrl": "http://cfile212.uf.daum.net/image/22747F4D574A7C8E32D99D",
+    "intro": "남자 4살, 잘 삐짐, 작음"
+  },
+  {
+    "animalId": 7,
+    "shelterId": 2,
+    "name": "흰둥이",
+    "mainImgUrl": "http://pds.joins.com/news/component/htmlphoto_mmdata/201611/22/htm_20161122172127787799.JPG",
+    "subImgUrl": "http://pds.joins.com/news/component/htmlphoto_mmdata/201611/22/htm_20161122172127787799.JPG",
+    "intro": "남자 2살, 폭력적임"
+  }
+]

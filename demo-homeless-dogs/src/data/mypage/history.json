@@ -1,0 +1,22 @@
+[
+  {
+    "createAt": "2018.08.02",
+    "shelterName": "마포구 보호소",
+    "valueAmount": -100,
+    "valueType": "ADT",
+    "receiptUrl": "",
+    "isDonate": false,
+    "remarkUrl": "",
+    "remark": "인절미 입양"
+  },
+  {
+    "createAt": "2018.08.02",
+    "shelterName": "마포구 보호소",
+    "valueAmount": -70,
+    "valueType": "SPT",
+    "receiptUrl": "",
+    "isDonate": true,
+    "remarkUrl": "",
+    "remark": ""
+  }
+]

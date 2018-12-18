@@ -1,0 +1,20 @@
+[
+  {
+    "shelterId": 1,
+    "title": "마포구 보호소",
+    "subtitle": "마포구 보호소의 애완견입니다",
+    "imgUrl": "https://i.pinimg.com/originals/9b/84/cc/9b84cc4db7ad29899337548750839916.jpg"
+  },
+  {
+    "shelterId": 2,
+    "title": "동작구 보호소",
+    "subtitle": "동작구 보호소의 애완견입니다",
+    "imgUrl": "https://hellobf.co.kr/wp-content/uploads/2016/02/smile-puppy-01.jpg"
+  },
+  {
+    "shelterId": 3,
+    "title": "강남구 보호소",
+    "subtitle": "강남구 보호소의 애완견입니다",
+    "imgUrl": "https://blog.hmgjournal.com/images_n/contents/170421_dog01.png"
+  }
+]
