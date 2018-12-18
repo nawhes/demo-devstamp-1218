@@ -13,7 +13,6 @@ var Config = {
     user: ''
   },
   dapp: {
-    token: '', 
     apiKey: '',
   },
   txActionName: {

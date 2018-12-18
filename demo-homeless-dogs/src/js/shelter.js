@@ -57,7 +57,7 @@ Shelter = {
           crossDomain: true,
           dataType: 'json',
           headers: {
-            'Authorization': Config.dapp.token,
+            'Authorization': `Bearer ${Config.dapp.apiKey}`,
           },
           data: {
             'inputs': {
@@ -159,7 +159,7 @@ function adopt(animalId, animalName, imgUrl) {
         crossDomain: true,
         dataType: 'json',
         headers: {
-          'Authorization': Config.dapp.token,
+          'Authorization': `Bearer ${Config.dapp.apiKey}`,
         },
         data: {
           'from': Config.walletAddress.pd,
