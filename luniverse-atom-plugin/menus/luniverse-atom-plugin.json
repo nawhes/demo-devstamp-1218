@@ -1,0 +1,36 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {"type": "separator"},
+      {
+        "label": "Create Audit",
+        "command": "luniverse-api:create-audit"
+      },
+      {
+        "label": "Compile Contract Code",
+        "command": "luniverse:compile-contract"
+      },
+      {"type": "separator"}
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Luniverse-Atom-Plugin",
+          "submenu": [
+            {
+              "label": "Create Audit",
+              "command": "luniverse-api:create-audit"
+            },
+            {
+              "label": "Compile Contract Code",
+              "command": "luniverse:compile-contract"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
